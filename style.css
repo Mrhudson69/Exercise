@@ -53,4 +53,9 @@ h2 {
     height: auto;
     border-radius: 8px;
     padding-left: 23%;
+    margin-top: -10px;
+}
+
+.blocks {
+    margin-bottom: 40px;
 }
